@@ -14,8 +14,7 @@ cd backup
 chmod 755 backup.sh
 ```
 
-Configure the variables
-To implement this script, you must change the variables in `backup.sh`:
+Change the variables in `backup.sh`:
 ```
 ORIGEN="/home/admin1/Desktop/directorio_origen"
 
