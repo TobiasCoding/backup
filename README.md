@@ -14,19 +14,21 @@ cd backup
 chmod 755 backup.sh
 ```
 
-```
-./backup.sh
-```
-
-The code will create a backup of the example folder `directorio_origen`.
-
-### Configure the variables
+Configure the variables
 To implement this script, you must change the variables in `backup.sh`:
 ```
 ORIGEN="/home/admin1/Desktop/prueba/shell_scripts/directorio_origen"
 
 DESTINO="/home/admin1/Desktop/prueba/shell_scripts/directorio_destino"
 ```
+
+Execute
+```
+./backup.sh
+```
+
+The code will create a backup of the example folder `directorio_origen`.
+
 
 ### Logs file
 
