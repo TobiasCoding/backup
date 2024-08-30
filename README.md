@@ -17,9 +17,9 @@ chmod 755 backup.sh
 Configure the variables
 To implement this script, you must change the variables in `backup.sh`:
 ```
-ORIGEN="/home/admin1/Desktop/prueba/shell_scripts/directorio_origen"
+ORIGEN="/home/admin1/Desktop/directorio_origen"
 
-DESTINO="/home/admin1/Desktop/prueba/shell_scripts/directorio_destino"
+DESTINO="/home/admin1/Desktop/directorio_destino"
 ```
 
 Execute
