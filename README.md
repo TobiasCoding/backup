@@ -39,7 +39,7 @@ cat backup__29-08-2024__22-50-44
 
 ```
 ============================
-Fecha: 29-08-2024__22-50-24
+Fecha: 29/08/2024 - Hs: 19:23:12
 sending incremental file list
 directorio_origen/
 directorio_origen/file2
@@ -54,13 +54,13 @@ directorio_origen/folder/file1
 sent 544 bytes  received 165 bytes  1,42K bytes/sec
 total size is 16  speedup is 0,02
 ============================
-Fecha: 29-08-2024__22-50-43
+Fecha: 29/08/2024 - Hs: 20:50:43
 sending incremental file list
 
 sent 233 bytes  received 18 bytes  502,00 bytes/sec
 total size is 16  speedup is 0,06
 ============================
-Fecha: 29-08-2024__22-50-44
+Fecha: 29/08/2024 - Hs: 21:54:23
 sending incremental file list
 
 sent 233 bytes  received 18 bytes  502,00 bytes/sec
