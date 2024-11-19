@@ -33,6 +33,8 @@ else
         LOG="$DESTINO/backup__$FECHA_NAME.txt"
         {
         echo "============================"
+        echo "LOGS DE $DESTINO"
+        echo "============================"
         echo "Fecha: $FECHA"
         rsync -avh --delete "$ORIGEN" "$DESTINO"
         } > "$LOG" 2>&1
